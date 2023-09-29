@@ -1,0 +1,94 @@
+#img_profil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50% 50% 0% 0%;
+    margin: 10px;
+}
+body {
+    background-color: #ec8d56;
+    margin: 0%;
+}
+#prodet {
+    background-color: lightsalmon;
+    border-color: #da895a;
+    border-style: groove;
+    border-width: 10px;
+    display: flex;
+    border-radius: 40px;
+}
+#name {
+    display: inline-block;
+    font-style: oblique;
+    font-size: xxx-large;
+    font-family: cursive;
+    color: #85320b;
+}
+#proli {
+    margin-top: 20px;
+    margin-left: 200px;
+    font-family: cursive;
+    font-weight: lighter;
+    color: #ffffff;  
+}
+.promiova {
+    color: #85320b;
+}
+#hr_1 {
+    text-align: center;
+    width: 30%;
+    
+}
+.Grand_titre {
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: #582f17;
+    text-decoration: underline;
+    font-size: x-large;
+    background: rgb(114, 35, 3); 
+    background-color:lightsalmon;
+    width: 350px; 
+    border-radius: 25px; 
+    border: #3f1a04 2px solid;
+    margin-left: 20px
+}
+#ul_details {
+    font-family: cursive;
+    margin-left: 50px;
+    position:relative;
+    list-style-position:inside;
+}
+#tableau {
+    display: flexbox;
+    font-family: cursive;
+    text-align: center;
+    border: solid 2px black;
+    margin-left: 22%;border-radius: 10px;
+    background-color: #9e4009;
+
+}
+.tabtit{
+color: #3f1a04;
+background-color: #da895a;
+width: fit-content;
+border-radius: 10px;
+border: black 1px solid;
+}
+#fizfar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#fizap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#itofar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#farany {
+    font-family: cursive;
+}
